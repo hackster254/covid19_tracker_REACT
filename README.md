@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# with the covid19 pandemic this app tracks the cases realtime and display it per country.
+Its built on REACTJS 
+
+# using material UI i designed Cards which visually display the data from mathdroid api https://github.com/mathdroid/covid-19-api
+
+# Theres also a bar chart that represents data per country. The cards use react-countup to create a countup for cases.
 
 ## Available Scripts
 
@@ -66,3 +72,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+HACKSTER254
+
+Happy Coding
